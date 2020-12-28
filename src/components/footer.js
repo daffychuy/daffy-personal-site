@@ -121,6 +121,9 @@ const Footer = () => {
             </div>
           )}
         </a>
+        <a href="https://github.com/daffychuy/v4">
+          <div>Modified by daffychuy</div>
+        </a>
       </StyledCredit>
     </StyledFooter>
   );
