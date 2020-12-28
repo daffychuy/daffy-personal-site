@@ -1,13 +1,12 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Arezue'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/daffychuy/Arezue-Backend-DSC'
+external: 'https://arezue.ca/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Nodejs
+  - Expressjs
 showInProjects: true
 ---
 
