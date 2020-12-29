@@ -152,5 +152,11 @@ module.exports = {
         trackingId: 'UA-45666519-2',
       },
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'daffy-site',
+      },
+    },
   ],
 };
