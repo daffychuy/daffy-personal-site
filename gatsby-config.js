@@ -149,13 +149,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-Y7H8357FZG',
       },
     },
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-        bucketName: 'daffy-site',
+        bucketName: 'daffychuy.com',
+        protocol: 'https',
+        hostname: 'daffychuy.com',
       },
     },
   ],

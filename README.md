@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/daffychuy/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   brittanychiang.com - v4
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/daffychuy/v4/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -72,6 +72,12 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    ```sh
    npm run serve
    ```
+
+## Deploying to S3
+
+```sh
+npm run build && npm run deploy
+```
 
 ## 🎨 Color Reference
 
