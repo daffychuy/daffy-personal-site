@@ -17,7 +17,7 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: var(--navy);
+  background-color: var(--midnightblue);
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
@@ -40,7 +40,7 @@ const StyledHeader = styled.header`
     css`
       height: var(--nav-scroll-height);
       transform: translateY(calc(var(--nav-scroll-height) * -1));
-      box-shadow: 0 10px 30px -10px var(--navy-shadow);
+      box-shadow: 0 10px 30px -10px var(--shadow);
     `};
 
   @media (max-width: 1080px) {
@@ -67,13 +67,6 @@ const StyledNav = styled.nav`
       color: var(--carrot);
       width: 42px;
       height: 42px;
-
-      &:hover,
-      &:focus {
-        svg {
-          fill: var(--yellow);
-        }
-      }
 
       svg {
         fill: none;

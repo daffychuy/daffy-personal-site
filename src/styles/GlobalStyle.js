@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
     --dark-navy: #020c1b;
     --navy: #0a192f;
     --orange: #f39c12;
-    --midnightblue: #2c3e50;
+    --midnightblue: #222f3e;
     --yellow: #f1c40f;
     --carrot: #e67e22;
     --light-navy: #172a45;
@@ -76,7 +76,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--navy);
+    background-color: var(--midnightblue);
     color: var(--slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);

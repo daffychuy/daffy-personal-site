@@ -1,8 +1,8 @@
 ---
 date: '2020-05-04'
-title: 'Teaching Assistant'
+title: 'Software Test Engineer Co-op'
 company: 'AMD'
-location: 'Mississauga, ON'
+location: 'Markham, ON'
 range: 'May 2020 - present'
 url: 'https://amd.com'
 ---

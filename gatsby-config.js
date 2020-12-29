@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Daffy (Daniel) Chu',
+    title: 'Daffy (Daniel) Chu | Personal Website',
     description: 'Daniel is a University student pursuing in software career.',
     siteUrl: 'https://daffychuy.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
