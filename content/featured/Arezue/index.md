@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Arezue'
 cover: './arezue.png'
 github: 'https://github.com/daffychuy/Arezue-Backend-DSC'
