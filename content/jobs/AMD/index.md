@@ -3,7 +3,7 @@ date: '2020-05-04'
 title: 'Software Test Engineer Co-op'
 company: 'AMD'
 location: 'Markham, ON'
-range: 'May 2020 - present'
+range: 'May 2020 - May 2021'
 url: 'https://amd.com'
 ---
 

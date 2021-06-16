@@ -4,7 +4,7 @@ title: 'Teaching Assistant'
 company: 'UofT'
 location: 'Mississauga, ON'
 range: 'Sept 2018 - present'
-url: 'https://www.apple.com/music/'
+url: ''
 ---
 
 Software Design
@@ -19,3 +19,4 @@ Introduction To Python Programming / Introduction to Computer Science
 
 - Hosted weekly 2 hours practical sessions
 - Providing students support on concepts of what they learned in class and put emphasis on thematerials which were helpful in their weekly practical exercises
+- Create and design their website for use and mark assignments as well as tests
