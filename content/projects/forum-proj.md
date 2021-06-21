@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A forum project that does kinda of similar to reddit thhat allows for anonymous forum posts in different sub categories that user can create and access through /s/subcat
+A forum project that does kinda of similar to reddit that allows for anonymous forum posts in different sub categories that user can create and access through /s/subcat
