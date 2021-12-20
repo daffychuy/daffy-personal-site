@@ -8,8 +8,8 @@ android: ''
 company: ''
 tech:
   - python
-  - Nodejs
-  - PostgreSQL
+  - golang
+  - MongoDB
 showInProjects: true
 ---
 

@@ -3,7 +3,11 @@ date: '2020-05-04'
 title: 'Software Test Engineer Co-op'
 company: 'AMD'
 location: 'Markham, ON'
+<<<<<<< HEAD
 range: 'May 2020 - April 2021'
+=======
+range: 'May 2020 - May 2021'
+>>>>>>> f6c4b98974f6044dc13a51664b166fdb8135159b
 url: 'https://amd.com'
 ---
 

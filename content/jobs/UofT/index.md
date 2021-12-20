@@ -4,7 +4,7 @@ title: 'Teaching Assistant'
 company: 'UofT'
 location: 'Mississauga, ON'
 range: 'Sept 2018 - present'
-url: 'https://www.apple.com/music/'
+url: ''
 ---
 
 CSC108 (Fall 2019 - Winter 2021): Introduction To Python Programming
