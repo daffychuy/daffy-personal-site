@@ -151,8 +151,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daffy or Daniel, a current University Student on Co-op pursuing in Software
-              Development.
+              Hello! I'm Daffy or Daniel, a current University Student on track to graduate in 2022. Looking to land a job in Software Development.
             </p>
 
             <p>
