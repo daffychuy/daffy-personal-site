@@ -7,15 +7,18 @@ range: 'Sept 2018 - present'
 url: 'https://www.apple.com/music/'
 ---
 
-Software Design
+CSC108 (Fall 2019 - Winter 2021): Introduction To Python Programming
 
-- Lead a team of 9 marking TAs to mark roughly 300 students’ assignments
-  -Other responsibility included but not limited to assisting students in understanding different kind
-  of design patterns in labs and assisting professor in preparing for assignments
+- Provided students' support on concepts of what they learned in class and put emphasis on the harder materials which deemed helpful in their weekly practical exercises
 
 ---
 
-Introduction To Python Programming / Introduction to Computer Science
+CSC148 (Fall 2020 - Summer 2021): Introduction to Computer Science
 
-- Hosted weekly 2 hours practical sessions
-- Providing students support on concepts of what they learned in class and put emphasis on thematerials which were helpful in their weekly practical exercises
+- Lead a team of marking TAs to mark roughly 500 students' assignments and participated in active learning lecture to answer students' questions.
+
+---
+
+CSC207 (Fall 2020 / Winter 2021): Software Design
+
+- Developed course website, assignments and pre-lecture quizzes for students to view and use as well as taught Java and OOP to students during labs.
