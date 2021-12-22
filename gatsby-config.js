@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Daffy (Daniel) Chu | Personal Website',
-    description: 'Daniel is a University student pursuing in software career.',
+    title: 'Daniel Chu | Portfolio Website',
+    description: 'A software developer based in Ontario, Canada.',
     siteUrl: 'https://daffychuy.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    // image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

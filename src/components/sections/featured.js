@@ -87,7 +87,7 @@ const StyledProject = styled.div`
 
   .project-overline {
     margin: 10px 0;
-    color: var(--carrot);
+    color: var(--site-main);
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
     font-weight: 400;
@@ -189,7 +189,7 @@ const StyledProject = styled.div`
 
     a {
       width: 100%;
-      background-color: var(--carrot);
+      background-color: var(--site-main-alt);
       border-radius: var(--border-radius);
       vertical-align: middle;
 

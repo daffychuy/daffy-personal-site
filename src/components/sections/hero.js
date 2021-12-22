@@ -12,7 +12,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--carrot);
+    color: var(--site-main);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -48,8 +48,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Daffy (Daniel) Chu.</h2>;
-  const three = <h3 className="big-heading">Pursing software development.</h3>;
+  const two = <h2 className="big-heading">Daniel.</h2>;
+  const three = <h3 className="big-heading">A software developer.</h3>;
   const four = <p>What brought you here?</p>;
   const five = (
     <a href={`mailto:${email}`} className="email-link">

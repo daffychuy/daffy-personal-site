@@ -71,7 +71,7 @@ const StyledProject = styled.div`
     margin-bottom: 30px;
 
     .folder {
-      color: var(--carrot);
+      color: var(--site-main);
       svg {
         width: 40px;
         height: 40px;

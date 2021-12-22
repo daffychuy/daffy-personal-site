@@ -9,7 +9,8 @@ tech:
   - Expressjs
   - ReactJS
   - PostgreSQL
+  - MVC Design Pattern
 showInProjects: true
 ---
 
-An application website for teaching assistant that replaces our old implementation from [here (old version)](https://cs.utm.utoronto.ca/~ta/utap/controller.php)
+An application website for teaching assistant that replaces our old implementation from [here (old version got removed)](https://cs.utm.utoronto.ca/~ta/utap/controller.php)

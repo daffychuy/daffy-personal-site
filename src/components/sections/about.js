@@ -38,7 +38,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--orange);
+        color: var(--site-alt);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -60,7 +60,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--orange);
+    background-color: var(--site-main);
 
     &:hover,
     &:focus {
@@ -105,7 +105,7 @@ const StyledPic = styled.div`
     }
 
     &:after {
-      border: 2px solid var(--carrot);
+      border: 2px solid var(--site-main);
       top: 20px;
       left: 20px;
       z-index: -1;
@@ -151,7 +151,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daffy or Daniel, a current University Student on track to graduate in 2022. Looking to land a job in Software Development.
+              Hello! I'm Daffy or Daniel, a current University Student on track to graduate in 2022.
+              Looking to land a job in Software Development.
             </p>
 
             <p>

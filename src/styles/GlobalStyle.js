@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     --orange: #f39c12;
     --midnightblue: #222f3e;
     --yellow: #f1c40f;
-    --carrot: #e67e22;
+    --site-main: #e67e22;
     --light-navy: #172a45;
     --lightest-navy: #303C55;
     --navy-shadow: rgba(2, 12, 27, 0.7);
@@ -22,6 +22,11 @@ const GlobalStyle = createGlobalStyle`
     --white: #e6f1ff;
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
+    --background-color: #0B0C10;
+    --background-color-light: #1F2833;
+    --site-grey: #C5C6C7;
+    --site-main: #66FCF1;
+    --site-alt: #45A29E;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
@@ -76,7 +81,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--midnightblue);
+    background-color: var(--background-color);
     color: var(--slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);
@@ -196,7 +201,7 @@ const GlobalStyle = createGlobalStyle`
       counter-increment: section;
       content: '0' counter(section) '.';
       margin-right: 10px;
-      color: var(--carrot);
+      color: var(--site-main);
       font-family: var(--font-mono);
       font-size: clamp(var(--fz-md), 3vw, var(--fz-xl));
       font-weight: 400;
@@ -260,7 +265,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:hover,
     &:focus {
-      color: var(--carrot);
+      color: var(--site-main);
     }
 
     &.inline-link {
@@ -331,7 +336,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   blockquote {
-    border-left-color: var(--carrot);
+    border-left-color: var(--site-main);
     border-left-style: solid;
     border-left-width: 1px;
     margin-left: 0px;
@@ -360,18 +365,18 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #logo {
-    color: var(--carrot);
+    color: var(--site-main);
   }
 
   .overline {
-    color: var(--carrot);
+    color: var(--site-main);
     font-family: var(--font-mono);
     font-size: var(--fz-md);
     font-weight: 400;
   }
 
   .subtitle {
-    color: var(--carrot);
+    color: var(--site-main);
     margin: 0 0 20px 0;
     font-size: var(--fz-md);
     font-family: var(--font-mono);
@@ -394,7 +399,7 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     align-items: center;
     margin-bottom: 50px;
-    color: var(--carrot);
+    color: var(--site-main);
 
     .arrow {
       display: block;

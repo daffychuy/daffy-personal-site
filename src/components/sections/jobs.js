@@ -65,9 +65,9 @@ const StyledTabButton = styled.button`
   width: 100%;
   height: var(--tab-height);
   padding: 0 20px 2px;
-  border-left: 2px solid var(--lightest-navy);
+  border-left: 2px solid var(--site-alt);
   background-color: transparent;
-  color: ${({ isActive }) => (isActive ? 'var(--carrot)' : 'var(--slate)')};
+  color: ${({ isActive }) => (isActive ? 'var(--site-main)' : 'var(--slate)')};
   font-family: var(--font-mono);
   font-size: var(--fz-xs);
   text-align: left;
@@ -141,7 +141,7 @@ const StyledTabContent = styled.div`
     font-weight: 500;
 
     .company {
-      color: var(--carrot);
+      color: var(--site-main);
     }
   }
 

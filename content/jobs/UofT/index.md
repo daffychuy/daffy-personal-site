@@ -1,9 +1,9 @@
 ---
-date: '2018-09-01'
+date: '2019-01-01'
 title: 'Teaching Assistant'
 company: 'UofT'
 location: 'Mississauga, ON'
-range: 'Sept 2018 - present'
+range: 'Jan 2019 - present'
 url: ''
 ---
 
